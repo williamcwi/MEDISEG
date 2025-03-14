@@ -29,7 +29,7 @@ If you use MEDISEG in your research, please cite our work as follows:
 ```bibtex
 @inproceedings{MEDISEG2025,
   title     = {MEDISEG: A large-scale dataset of medication images with instance segmentation masks for preventing adverse drug events},
-  author    = {Chu, Wai Ip and Hirani, Shashi and Tarroni, Giacomo and Li, Caroline},
+  author    = {Chu, Wai Ip and Hirani, Shashi and Tarroni, Giacomo and Li, Ling},
   journal   = {Nature Scientific Data},
   year      = {2025},
   url       = {https://example.com}
